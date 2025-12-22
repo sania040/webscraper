@@ -1,0 +1,8 @@
+fastapi 
+uvicorn
+scrapegraph-py
+pydantic
+sqlalchemy
+google-search-results
+nest_asyncio
+python-dotenv
